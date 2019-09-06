@@ -1,6 +1,6 @@
 # HOMEWORK 1
 
-**Name:Diptarshi Chakraborty**
+**Name: Diptarshi Chakraborty**
 
 1.	Frame Rate for 1 x 1		: Example Rate
 	Frame Rate for 300 x 300	: Example Rate
