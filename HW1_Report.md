@@ -19,9 +19,9 @@ that were posted.
 	Frame Rate for 300 x 300	: Example Rate
 	Frame Rate for full screen	: Example Rate
 
-#### 2. Reason explaining why the frame rate is different on the same machine sizes for different hardwares
+#### 2. Reason explaining why the frame rate is different on the same machine sizes for different hardwares.
 
-	**I shall answer this question in brief**
+	I shall answer this question in brief
 
 	The frame rate of a computer monitor depend on two factors[1]
 
