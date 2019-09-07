@@ -21,7 +21,7 @@ that were posted.
 
 #### 2. Reason explaining why the frame rate is different on the same machine sizes for different hardwares
 
-	###### I shall answer this question in brief
+	**I shall answer this question in brief**
 
 	The frame rate of a computer monitor depend on two factors[1]
 
