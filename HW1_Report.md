@@ -23,14 +23,15 @@ that were posted.
 
 	The frame rate of a computer monitor depend on three factors[1]
 
-	1. 
+	1. Processing Hardware present on the system
+	2. Graphics Resolution  
 
 
 #### 3. Time required to complete the assignment
 
 #### References
 	
-	1. [link](https://www.lifewire.com/optimizing-video-game-frame-rates-811784)
+	1.[link](https://www.lifewire.com/optimizing-video-game-frame-rates-811784)
  
 
 
