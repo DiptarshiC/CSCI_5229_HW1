@@ -31,7 +31,7 @@ that were posted.
 
 #### References
 	
-	1.[link] https://www.lifewire.com/optimizing-video-game-frame-rates-811784
+	1. [link]https://www.lifewire.com/optimizing-video-game-frame-rates-811784
  
 
 
