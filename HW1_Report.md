@@ -21,7 +21,7 @@ that were posted.
 
 #### 2. Reason explaining why the frame rate is different on the same machine sizes for different hardwares
 
-	The frame rate of a computer monitor depend on three factors[1]
+	The frame rate of a computer monitor depend on two factors[1]
 
 	1. Processing Hardware present on the system
 	2. Graphics Resolution  
