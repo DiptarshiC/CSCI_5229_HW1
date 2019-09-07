@@ -21,7 +21,17 @@ that were posted.
 
 #### 2. Reason explaining why the frame rate is different on the same machine sizes for different hardwares
 
+	The frame rate of a computer monitor depend on three factors[1]
+
+	1. 
+
+
 #### 3. Time required to complete the assignment
+
+#### References
+	
+	1. [Link] https://www.lifewire.com/optimizing-video-game-frame-rates-811784
+ 
 
 
 
