@@ -1,4 +1,4 @@
-# HOMEWORK 1
+# Homework 1
 
 **Name: Diptarshi Chakraborty**
 
@@ -13,7 +13,9 @@ I present my report in a question answer format.I have presented the answers bel
 that were posted.
 
 
-#### 1.	Frame Rate for 1 x 1		: Example Rate
+#### 1. The frame rates for various image sizes are as follows:
+ 
+	Frame Rate for 1 x 1		: Example Rate
 	Frame Rate for 300 x 300	: Example Rate
 	Frame Rate for full screen	: Example Rate
 
